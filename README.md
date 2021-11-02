@@ -1,5 +1,8 @@
 ### Welcome to my GitHub 👋
 
+I'm Max from New York, and I am a recent graduate from Flatiron School's Full-Stack Web Development Bootcamp. I have background experience in customer service, including food runnimg, waitering, and bar-backing. I really enjoy learning and working with Front-End languages such as JavaScript and React.js. I also enjoy wireframing projects using tools like Figma with my desktop, and Mockup with my iPad.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ... Building my skills
 - 🌱 I’m currently learning ... React.js
