@@ -1,4 +1,4 @@
-### Hi there and Welcome to my GitHub 👋
+### Welcome to my GitHub 👋
 
 
 - 🔭 I’m currently working on ... Building my skills
