@@ -9,7 +9,7 @@
 
 - 📫 Email me! **maxfieldrabin@gmail.com**
 
-- ⚡ ([Portfolio](http://maxfieldrabin.com)) 
+- ⚡ [Portfolio](http://maxfieldrabin.com) 
 
 
 <h3 align="left">Connect with me:</h3>
