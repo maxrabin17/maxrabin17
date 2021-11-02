@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Max Rabin</h1>
-<h3 align="center">I'm from New York, and I am a recent graduate from Flatiron School's Full-Stack Web Development Bootcamp. I have background experience in customer service, including food runnimg, waitering, and bar-backing. I really enjoy learning and working with Front-End languages such as JavaScript and React.js. I also enjoy wireframing projects using tools like Figma with my desktop, and Mockup with my iPad.</h3>
+<h3 align="center">I'm from New York, and I am a recent graduate from Flatiron School's Full-Stack Web Development Bootcamp. I have background experience in customer service, including food running, waitering, and bar-backing. I really enjoy learning and working with Front-End languages such as JavaScript and React.js. I also enjoy wireframing projects using tools like Figma with my desktop, and Mockup with my iPad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxrabin17&label=Profile%20views&color=0e75b6&style=flat" alt="maxrabin17" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React.js**
-
-- 👨‍💻 All of my projects are available at [maxfieldrabin.com](maxfieldrabin.com)
+- 🌱 I’m currently learning **Frameworks within React**
 
 - 💬 Ask me about **anything coding!**
 
-- 📫 How to reach me **maxfieldrabin@gmail.com**
+- 📫 Email me! **maxfieldrabin@gmail.com**
+
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxrabin17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maxfield-rabin-44a343208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](maxfieldrabin.com)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
